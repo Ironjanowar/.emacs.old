@@ -1,0 +1,3 @@
+My Emacs config is posible thanks to @ignaciobll
+(https://github.com/ignaciobll/.emacs.d) and @rockneurotiko
+(https://github.com/rockneurotiko/emacs.d)
