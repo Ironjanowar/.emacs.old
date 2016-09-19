@@ -24,6 +24,8 @@
 
 (require 'google-settings)
 
+(require 'general-settings)
+
 (require 'version-control-settings)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

@@ -1,7 +1,7 @@
 ;; Magit
 (use-package magit
   :ensure t
-  :bind (("C-x g" . magit-status)
+  :bind (("C-c g" . magit-status)
          ("C-x M-g" . magit-dispatch-popup))
   )
 

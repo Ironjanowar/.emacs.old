@@ -44,17 +44,8 @@
 ;; Emmet mode
 (use-package emmet-mode
   :ensure t
-
-  :init
-  (defun emmet-hook()
-    (emmet-mode)
-    (local-set-key (kbd "M-TAB") 'emmet-expand-line))
-  
   :config
-  ;; Auto-start on any markup modes
-  (add-hook 'sgml-mode-hook 'emmet-hook)
-  ;; enable Emmet's css abbreviation.
-  (add-hook 'css-mode-hook  'emmet-hook))
+  (add-hook 'web-mode-hook 'emmet-mode))
 
 ;; Node repl
 (use-package nodejs-repl
