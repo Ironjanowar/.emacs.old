@@ -1,0 +1,15 @@
+;; Avy
+(use-package avy
+  :ensure t
+  :bind (("M-g g" . avy-goto-line)
+         ("M-g w" . avy-goto-word-1)))
+
+;; WindMove
+(use-package windmove
+  :bind (("C-. <up>" . windmove-up)
+         ("C-. <left>" . windmove-left)
+         ("C-. <right>" . windmove-right)
+         ("C-. <down>" . windmove-down))
+  )
+
+(provide 'navigation-settings)

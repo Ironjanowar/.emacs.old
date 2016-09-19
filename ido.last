@@ -1,0 +1,74 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/ironjanowar/TelegramBots/" . "Menerator_JS/")
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" . "js/")
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/" . "widget/")
+ ("/home/ironjanowar/work/wirecloud-widgets/" . "visualizer-widget/")
+ ("/home/ironjanowar/work/" . "wirecloud-widgets/")
+ ("/home/ironjanowar/.emacs.old/" . "settings/")
+ ("/home/ironjanowar/.emacs.d/" . "config/")
+ ("/home/ironjanowar/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ironjanowar/.emacs.d/config/"
+ "/home/ironjanowar/"
+ "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/"
+ "/home/ironjanowar/.emacs.old/settings/"
+ "/home/ironjanowar/.emacs.old/"
+ "/home/ironjanowar/.emacs.d/"
+ "/home/ironjanowar/.emacs.old/plugins/"
+ "/home/ironjanowar/TelegramBots/Menerator_JS/"
+ "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "web-settings.el"
+ "test.html"
+ "config.xml"
+ "theme-settings.el"
+ "general-settings.el"
+ "init.el"
+ "google-settings.el"
+ "editing-settings.el"
+ "navigation-settings.el"
+ "clean-buffers.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ironjanowar/.emacs.d/config/" (22496 18572 826361 844000) "editing-settings.el" "version-control-settings.el" "programming-settings.el~" "visual-settings.el" "programming-language-settings.el" "navigation-settings.el~" "web-settings.el~" "google-settings.el" "programming-settings.el" "navigation-settings.el" "interface-settings.el" "package-management-settings.el~" "editing-settings.el~" "visual-settings.el~" "package-management-settings.el" "web-settings.el" "./" "interface-settings.el~" "google-settings.el~" "programming-language-settings.el~" "../" "version-control-settings.el~")
+
+ ("/home/ironjanowar/.emacs.d/" (22496 18580 779694 967000) "auto-save-list/" "ac-comphist.dat" "plugins/" "elpa/" "emojis/" "config/" "init.el" "ido.last" "init.el~" "./" "snippets/" "ido.last~" "../")
+
+ ("/home/ironjanowar/" (22496 18603 159694 375000) ".vps_payment/" "powerarrow/" ".bash_profile" "News/" "Documents/" "Web/" ".ivy2/" ".npm/" "Maildir/" "rainbow-delimiters/" "maps_widget/" ".eclipse/" "pregunta.jpg" "Mail/" ".adobe/" "pt/" ".secret" ".zsh_history" ".gimp-2.8/" ".lesshst" ".ensime" "Projects/" ".gnomerc" ".ssh/" ".offlineimaprc" ".Xmodmap" "EmacsLisp/" "Golang/" "tegmacs/" "logs/" ".xinitrc" ".zcompdump-test-5.2" ".gem/" "MyAwesomeWM/" ".agenda/" ".eclim/" "Cesar_Guzman_entrega_1.doc" ".ncmpcpp/" "mu/" ".java/" ".gnupg/" "gitRepos/" ".zshrc" ".ipython/" ".gnomerc~" ".packettracer" "lel/" "Desktop/" ".offlineimap.pyc" ".sbt/" ".tooling/" ".gnus" "Books/" ".super_secret/" "Scripts/" "widget-errorpanel/" ".mysql_history" ".esd_auth" ".gnome/" "aoe.txt" ".offlineimap/" ".newsrc-dribble" "Updater" ".thunderbird/" "awesome-copy/" "Pictures/" ".WebStorm2016.2/" "cordial-zsh-theme/" ".elm/" ".gnome2_private/" ".gnome2/" ".sounds/" ".node-gyp/" "Login_FIWIFI/" ".pki/" ".emacs.old/" "fonts/" ".bash_logout" ".scala_history" "Universidad/" "Aoe.jpg" ".TelegramDesktop/" ".mozilla/" "MyEmacs/" "go/" ".zcompdump-default-5.2" ".macromedia/" ".local/" ".dia/" "Templates/" ".octave_hist" "matlab_install/" "XPI/" ".subversion/" ".ICEauthority" "test.html~" ".node_repl_history" "Music/" ".offlineimap.py" "AutoLogin/" ".zshrc~" ".zshcustom/" ".bashrc" ".newsrc.eld" ".telegram-cli/" ".cache/" ".config/" "CiscoPacketTracer/" ".mu/" ".zenmap/" ".openshift/" "workspace/" ".mysql/" "test.html" "Scala/" "workgo/" "octave-workspace" ".emacs.d/" "target/" "Curriculum/" "TelegramBots/" "grive/" ".bzr.log" "reveal.js/" ".zcompdump-archPC-5.2" ".xonsh_man_completions" "AddonsFirefox/" ".newsrc" "./" ".bash_history" "APIs/" ".docker/" ".zshrc.pre-oh-my-zsh" ".zsh-update" ".gitconfig" "rockmacs/" "cycles_RISC.org" ".ghc/" ".viminfo" "Public/" "Videos/" "elm_exercices/" "work/" "Redis/" ".kismet/" ".authinfo.gpg" ".python_history" "Haskell/" "OLDcurso-web-2016/" "awesome-copycats/" ".lyrics/" "Downloads/" ".oh-my-zsh/" "backups/" ".thumbnails/" "../" ".tldr/" "TallerBotsTelegram_ACM_ETSIINF_UPM/")
+
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/" (22496 15162 393118 683000) "main.js" "./" "../")
+
+ ("/home/ironjanowar/TelegramBots/Menerator_JS/" (22496 15339 93114 11000) "data/" "package.json" "node_modules/" ".env.example" "elasticsearch-2.3.5/" ".git/" "./" "run_menerator.sh" ".gitignore" ".env" "bot.js" "../")
+
+ ("/home/ironjanowar/.emacs.old/settings/" (22496 15916 286432 83000) "linum-off.el" "linum-off.el~" "avy-settings.el" "programming-settings.el~" "scala/" "matlab-settings.el" "email-settings.el" "pychecker.sh" "programming-settings.el" "autopair.el" "package-settings.el" "helm-settings.el" "reveal-settings.el" "python-settings.el" "multiterm-settings.el" "js-settings.el" "asm-settings.el" "go-settings.el" "setup-scala.el" "haskell-settings.el" "./" "rock-defuns.el" "org-settings.el" "#escritura-settings.el#" "yasnippet-settings.el" "#general-settings.el#" "escritura-settings.el" "general-settings.el" "shell.el" "../" "theme-settings.el")
+
+ ("/home/ironjanowar/.emacs.old/" (22496 15840 693100 749000) "README.md" "%backup%~" "auto-save-list/" "ac-comphist.dat" "plugins/" "abbrev_defs" "elpa/" "emojis/" "#recentf#" ".mc-lists.el" "url/" "semanticdb/" "init.el" "srecode-map.el" "settings/" "ido.last" "games/" "es6-snippets/" "init.el~" "./" "tramp" "snippets/" "recentf~" "recentf" "ido.last~" "backups/" "../")
+
+ ("/home/ironjanowar/.emacs.old/plugins/" (22496 15382 783112 856000) "helm-spotify.el" "tegmacs/" "clean-buffers.el" "dirtree.el" "rainbow-delimiters.elc" "yasnippet/" "compile-scala.el" "old-spotify.el" "java-mode-for-real.el" "./" "shell.el" "../" "rainbow-delimiters.el")
+
+ ("/home/ironjanowar/TelegramBots/ACMbot/" (22435 4088 486368 329000) "README.org" "data/" "acm.token~" "bot.py" ".git/" "acm.token" "launch.sh" "./" ".gitignore" "../")
+
+ ("/home/ironjanowar/TelegramBots/" (22481 14940 993339 746000) "SuchBot.html" "OpenLibraSpam_bot/" "TheConvertorBot/" ".gmailAPI/" "Menerator_JS/" "SuchBot_client.html" "Meme_Generator_bot/" "CityMapperBot/" "Phyton_bot/" "NodeTestBot/" "SaveLinksBot/" "SuchBot.org" "MyTgBot/" "ACMbot/" "RemoteACMBot/" "Presentacion/" "./" "ProjectBot/" "Real_Mentioner_bot/" "GoConvertor/" "RedditBot/" "../")
+
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" (22495 53013 410535 961000) "index.html" "js/" "css/" "visualizer.wgt" ".git/" "./" ".gitignore" "config.xml" "../")
+
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/" (22490 45994 49796 384000) "widget/" "./" "../")
+
+ ("/home/ironjanowar/work/wirecloud-widgets/" (22490 45909 569798 618000) "visualizer-widget/" "force_layout_with_images/" "./" "widget-echo/" "../")
+
+ ("/home/ironjanowar/work/" (22486 41722 209646 147000) "sdh-slackbot/" "sdh-web/" "install_sdh_machine.org" "wirecloud-tutorial/" "start_services.txt" "scriptJS/" "html_practice/" "sdh-redis/" "start_services.org" "sdh-widget-snapshot-service/" "sdh-elasticsearch/" "test/" "sdh-telegrambot/" "learn_html/" "mailExample.html" "sdh-machine-slackbot/" "./" "dudasJS.org" "wirecloud-widgets/" "learn_JS/" "sdh-api/" "../" "d3_widgets/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

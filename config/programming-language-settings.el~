@@ -1,0 +1,9 @@
+;; Haskell
+(use-package haskell-mode
+  :ensure t
+  :mode "\\.hs'\\"
+  :config (add-hook 'haskell-mode-hook 'turn-on-haskell-doc)
+  (add-hook 'haskell-mode-hook 'turn-on-haskell-indent)
+  )
+
+(provide 'programming-language-settings)

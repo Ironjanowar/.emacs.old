@@ -1,0 +1,38 @@
+((("emmet-hook" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("ht" .
+   [2 0])
+  (":config" .
+   [1 0 0 0 0 0 0])
+  ("undo-tree" .
+   [1 0 0 0 0 0 0 0 0])
+  ("ido-everywhere" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("autopair" .
+   [1 0 0 0 0 0 0 0])
+  ("set-pair" .
+   [1 0 0 0 0 0 0 0])
+  ("use-package" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("smartparens-config" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":ensure" .
+   [1 0 0 0 0 1 0])
+  (":init" .
+   [4 0 1 0 0])
+  ("require" .
+   [1 0 0 0 0 0 1])
+  ("smartparens" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("smartparens-global-" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("smartparens-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ido-mode" .
+   [0 0 0 1 0 0 0 0])
+  ("ido-vertical-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("google-settings" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("emmet-mode" .
+   [2 0 0 0 0 0 0 0 0 0])))
