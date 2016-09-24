@@ -27,7 +27,8 @@
   (global-set-key (kbd "C-S-z") 'redo)  
   )
 
-
+;; Key bindings
 (global-set-key "\M-i" 'iwb)
+(global-set-key "\M-q" 'fill-column)
 
 (provide 'editing-settings)

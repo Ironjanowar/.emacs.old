@@ -10,6 +10,6 @@
 
 (global-set-key "\M-i" 'iwb)
 
-
+(setq backup-directory-alist '(("." . "~/.emacs.d/backups")))
 
 (provide 'general-settings)
