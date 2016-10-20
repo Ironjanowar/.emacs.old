@@ -12,4 +12,7 @@
 
 (setq backup-directory-alist '(("." . "~/.emacs.d/backups")))
 
+;; Remove initial buffer
+(setq inhibit-startup-screen t)
+
 (provide 'general-settings)
