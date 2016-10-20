@@ -34,10 +34,11 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (matlab-mode google-translate magit multiple-cursors yasnippet use-package smartparens rainbow-mode rainbow-delimiters hydra helm haskell-mode flycheck emojify darkokai-theme company-quickhelp avy auto-complete aggressive-indent))))
+    (move-text elpy jedi jinja2-mode js2-mode sudo-edit lua-mode matlab-mode google-translate magit multiple-cursors yasnippet use-package smartparens rainbow-mode rainbow-delimiters hydra helm haskell-mode flycheck emojify darkokai-theme company-quickhelp avy auto-complete aggressive-indent))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+(put 'downcase-region 'disabled nil)

@@ -31,4 +31,8 @@
 (global-set-key "\M-i" 'iwb)
 (global-set-key "\M-q" 'fill-column)
 
+;; Move text
+(global-set-key [(control shift up)]  'move-text-up)
+(global-set-key [(control shift down)]  'move-text-down)
+
 (provide 'editing-settings)
