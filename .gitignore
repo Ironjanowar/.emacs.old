@@ -1,2 +1,10 @@
 # Emacs stuff
 *~
+*.elc
+
+# elpa
+elpa/
+
+
+# Flycheck
+flycheck_*.el

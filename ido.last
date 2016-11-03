@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+<<<<<<< HEAD
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/" . "Practica/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/" . "Bloque_II/")
  ("/home/ironjanowar/ACM/" . "AddMembers/")
@@ -29,6 +30,10 @@
  ("/usr/share/" . "X11/")
  ("/usr/" . "share/")
  ("/" . "etc/")
+=======
+ ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/" . "js/")
+ ("/home/ironjanowar/work/sdh/" . "sdh-widget-rangenv/")
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" . "wgt_files/")
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/" . "agile-dashboards/")
  ("/home/ironjanowar/work/Wirecloud/Grunt/" . "agile-2/")
@@ -46,14 +51,19 @@
  ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" . "css/")
  ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/" . "widget/")
  ("/home/ironjanowar/work/wirecloud-widgets/" . "visualizer-widget/")
- ("/home/ironjanowar/work/" . "Wirecloud/")
+ ("/home/ironjanowar/work/" . "sdh/")
  ("/home/ironjanowar/.emacs.old/" . "settings/")
  ("/home/ironjanowar/.emacs.d/" . "config/")
+<<<<<<< HEAD
  ("/home/ironjanowar/" . "Universidad/")
+=======
+ ("/home/ironjanowar/" . ".emacs.d/")
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 )
 
 ;; ----- ido-work-directory-list -----
 (
+<<<<<<< HEAD
  "/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/"
  "/home/ironjanowar/Descargas/"
  "/home/ironjanowar/ACM/AddMembers/"
@@ -91,6 +101,12 @@
  "/home/ironjanowar/.emacs.d/"
  "/etc/X11/xorg.conf.d/"
  "/home/ironjanowar/zshConfig/"
+=======
+ "/home/ironjanowar/.emacs.d/config/"
+ "/home/ironjanowar/work/sdh/sdh-widget-rangenv/js/"
+ "/home/ironjanowar/.emacs.d/"
+ "/home/ironjanowar/"
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/wgt_files/"
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/and-filter-operator/"
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/labels-to-dataserie-operator/"
@@ -104,10 +120,47 @@
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/removeDuplicates-list-operator/"
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/reliability-chart-generator-operator/"
  "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/product-backlog-chart-operator/"
+<<<<<<< HEAD
+=======
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/pie-chart-generator-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/packlist-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/open-item-webpage-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jira-harvester-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-widget/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-table-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-project-build-list-widget/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-harvester-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-table-generator-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-splitter-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/intersect-list-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/iconosWidgets.graffle/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/gitlab-harvester-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/github-harvester-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/git-blame-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-jenkins-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-coveralls-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-jenkins-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-coveralls-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-closing-commit-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/file-coverage-chart-generator-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/dist/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/detailed-jenkins-test-data-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/column-chart-generator-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/changes-splitter-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/calculate-tendency-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/burndownchart-click-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/burndown-chart-generator-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/build-splitter-operator/"
+ "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/BasicListMathOperator/"
+ "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/css/"
+ "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/"
+ "/home/ironjanowar/.emacs.d/plugins/"
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 )
 
 ;; ----- ido-work-file-list -----
 (
+<<<<<<< HEAD
  "libfiltra_void.c"
  "libfiltra_delay.c"
  "libfiltra_alfa.c"
@@ -118,11 +171,39 @@
  ".zshrc"
  "numero_de_practica.py"
  "LISTA-COMIDA-ACM-2016.org"
+=======
+ "editing-settings.el"
+ "main.js"
+ "general-settings.el"
+ "init.el"
+ ".zshrc"
+ "create_wgt_files.py"
+ "unify_wgt.py"
+ "create_wgt_files.wgt"
+ "python-settings.el"
+ "programming-language-settings.el"
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+<<<<<<< HEAD
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/" (22553 5231 696839 970000) "filtrar.h" "libfiltra_delay.c" "./" "libfiltra_void.c" "WORK/" "libfiltra_alfa.c" "libfiltra_void.so" "Makefile" "libfiltra_alfa.so" "filtrar" "filtrar.c" "../" "libfiltra_delay.so")
+=======
+ ("/home/ironjanowar/.emacs.d/config/" (22536 50972 792421 516000) "web-settings.el" "navigation-settings.el" "python-settings.el" "general-settings.el" "visual-settings.el" "google-settings.el" "programming-language-settings.el" "../" "package-management-settings.el" "interface-settings.el" "editing-settings.el" "js-settings.el" "programming-settings.el" "python-elpy.el" "version-control-settings.el" "./")
+
+ ("/home/ironjanowar/.emacs.d/" (22536 51086 734699 459000) ".gitignore" "ido.last" "plugins/" "config/" "backups/" "../" "srecode-map.el" "README.org" "init.el" "elpa/" "auto-save-list/" "emojis/" ".git/" ".mc-lists.el" "snippets/" "ido.last~" "./" "ac-comphist.dat")
+
+ ("/home/ironjanowar/" (22536 50864 236285 179000) ".bash_history" ".npm/" ".zcompdump" ".oh-my-zsh/" "zshConfig/" ".zcompdump-mi-maquina-5.1.1" ".profile" ".zshrc.pre-oh-my-zsh" "Templates/" ".config/" ".gconf/" ".bashrc" "../" ".xsession-errors" ".TelegramDesktop/" ".thunderbird/" ".pki/" "Public/" ".dbus/" "Music/" ".lesshst" ".composer/" "Downloads/" "Pictures/" ".gitconfig" ".zshrc~" "Videos/" ".cache/" "Desktop/" ".ssh/" ".emacs.d/" "Documents/" ".ICEauthority" ".Xauthority" "work/" ".xsession-errors.old" "Scripts/" "examples.desktop" ".mozilla/" ".zsh-update" ".zsh_history" ".hplip/" ".zshrc" ".dmrc" ".local/" ".gnome/" ".nano/" ".sudo_as_admin_successful" ".gnupg/" ".bash_logout" "./")
+
+ ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/js/" (22536 50861 368284 627000) "main.js" "rangenv.js" "common.js" "../" "framework.js" "./")
+
+ ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/" (22535 41187 440639 538000) "lib/" "index.html" "../" "README.org" "config.json" "css/" ".git/" "js/" "./")
+
+ ("/home/ironjanowar/work/sdh/" (22529 3857 382456 783000) "sdh-elasticsearch/" "sdh-api/" "sdh-redis/" "sdh-web-docker/" "sdh-widget-rangenv/" "../" "start_services.txt" "sdh-framework/" "sdh-web/" "start_services.org" "server/" "./")
+
+ ("/home/ironjanowar/work/" (22535 16616 107101 738000) "Tests/" "../" "sdh/" "wirecloud-widgets/" "./")
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/" (22552 31543 248982 353000) "Coyoto_stuff/" "Apuntes/" "Practica_de_analisis/" "./" "../" "Practica_de_disenio/")
 
@@ -194,6 +275,7 @@
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-table-generator-operator/" (22507 51715 634758 224000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "LICENSE-MIT" "package.json" "issue-table-generator-operator.wgt" "../")
 
+<<<<<<< HEAD
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-harvester-operator/" (22507 51718 34758 160000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "package.json" "../")
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" (22507 51717 994758 162000) "build-splitter-operator/" "README.md" "get-closing-commit-operator/" "create_wgt_files.py" "and-filter-operator/" "get-coverage-report-jenkins-operator/" "column-chart-generator-operator/" ".git/" "dist/" "get-coverage-report-coveralls-operator/" "burndown-chart-generator-operator/" "changes-splitter-operator/" ".gitignore" "gitlab-harvester-operator/" "iconosWidgets.graffle/" "wgt_files/" "./" "intersect-list-operator/" "issue-table-generator-operator/" "BasicListMathOperator/" "github-harvester-operator/" "build.sh" "detailed-jenkins-test-data-operator/" "jenkins-harvester-operator/" "file-coverage-chart-generator-operator/" "../" "burndownchart-click-operator/" "calculate-tendency-operator/" "issue-splitter-operator/" "get-file-coverage-coveralls-operator/" "get-file-coverage-jenkins-operator/" "git-blame-operator/")
@@ -201,6 +283,11 @@
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/and-filter-operator/" (22507 51128 474773 749000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "package.json" "../" "and-filter-operator.wgt")
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/wgt_files/" (22507 51077 154775 106000) "create_wgt_files.py" "unify_wgt.py" "./" "files/" "../" "README.org" "wgt_files.wgt")
+=======
+ ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" (22501 17820 813393 947000) "README.md" "dist/" "trend-chart-generator-operator/" "reliability-chart-generator-operator/" "build-splitter-operator/" "calculate-tendency-operator/" "issue-table-generator-operator/" "test-report-splitter-operator/" "column-chart-generator-operator/" "file-coverage-chart-generator-operator/" "wgt_files/" "set-generic-filter-conditions-widget/" "git-blame-operator/" "removeDuplicates-list-operator/" "jira-harvester-operator/" "open-item-webpage-operator/" "detailed-jenkins-test-data-operator/" "packlist-operator/" "jenkins-test-time-difference-widget/" "intersect-list-operator/" "product-backlog-chart-operator/" "jenkins-test-time-difference-table-operator/" "burndownchart-click-operator/" "jenkins-project-build-list-widget/" "github-harvester-operator/" "get-file-coverage-coveralls-operator/" "setDifference-list-operator/" "get-file-coverage-jenkins-operator/" "get-coverage-report-coveralls-operator/" "iconosWidgets.graffle/" "BasicListMathOperator/" "build.sh" ".git/" "jenkins-harvester-operator/" "get-coverage-report-jenkins-operator/" "and-filter-operator/" "issue-splitter-operator/" "union-list-operator/" "./" ".gitignore" "get-closing-commit-operator/" "labels-to-dataserie-operator/" "create_wgt_files.py" "gitlab-harvester-operator/" "workload-chart-generator-operator/" "pie-chart-generator-operator/" "changes-splitter-operator/" "../" "burndown-chart-generator-operator/")
+
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/" (22498 48041 529666 577000) "main.js" "./" "../")
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 
  ("/home/ironjanowar/PyConEs2016/flask-note/src/" (22519 42781 753286 224000) "app.py" "templates/" "./" "database.py" "../")
 
@@ -242,9 +329,13 @@
 
  ("/etc/" (22506 61921 571985 778000) "brltty.conf" "machine-id" "motd" "exports" "inputrc" "passwd.OLD" "libnl/" "initcpio/" "logrotate.conf" "resolvconf.conf" "depmod.d/" "protocols" "pacman.d/" "modules-load.d/" "locale.gen" "man_db.conf" "ssh/" "hostname" "pam.d/" "gnome/" "gconf/" "dleyna-renderer-service.conf" "security/" "dleyna-server-service.conf" "bluetooth/" "nsswitch.conf" "gshadow" "pulse/" "shadow" "gtk-3.0/" "services" "group" "ifplugd/" "shadow-" "ts.conf" "libao.conf" "apparmor.d/" "speech-dispatcher/" "group-" "slsh.rc" "bind.keys" "brlapi.key" "pacman.conf" "gnome-vfs-2.0/" "ca-certificates/" "udev/" "conf.d/" "lightdm/" "polkit-1/" "gtk-2.0/" "libreoffice/" "usb_modeswitch.d/" "profile.d/" "sensors3.conf" "printcap" "profile" "fonts/" "wpa_supplicant/" "drirc" "tmpfiles.d/" "resolv.conf.bak" "arch-release" "sudoers.d/" "whois.conf" "crypttab" "wgetrc" "sound/" "host.conf" "grub.d/" "pamac.conf" "rc_maps.cfg" "login.defs" "usb_modeswitch.setup" "fstab" "shells" "default/" "mtab" "resolv.conf" "ksysguarddrc" "ld.so.conf.d/" "bash.bash_logout" "modprobe.d/" "kernel/" "healthd.conf" "UPower/" "passwd" "nscd.conf" "./" "fuse.conf" "mdadm.conf" "request-key.d/" "hosts" "sudoers" "xinetd.d/" "ssl/" "avahi/" "pacman.conf.pacnew" "rpc" "geoclue/" "krb5.conf" "usb_modeswitch.conf" "trusted-key.key" "pacman.conf.pacnew.old" "pm/" "securetty" ".updated" "nanorc" "idnalias.conf" "xdg/" "mkinitcpio.d/" "os-release" "issue" "udisks2/" "request-key.conf" "makepkg.conf" "rc_keymaps/" "foomatic/" "nfsmount.conf" "ethertypes" "gssproxy/" "pcmcia/" "zsh/" "sensors.d/" "NetworkManager/" "cups/" "localtime" "dhcpcd.conf" "skel/" "locale.conf" "binfmt.d/" "ld.so.cache" "mkinitcpio.conf" "libpaper.d/" "exports.d/" "idn.conf" "passwd-" "sysconfig/" "pkcs11/" "systemd/" "gshadow-" "iproute2/" "bash.bashrc" "adjtime" "sane.d/" "bonobo-activation/" "../" "ld.so.conf" "nilfs_cleanerd.conf" "iptables/" "xml/" "papersize" "asound.conf" "mke2fs.conf" "netctl/" "vdpau_wrapper.cfg" "hp/" "acpi/" "openvpn/" "openldap/" ".pwd.lock" "lvm/" "ImageMagick-6/" "netconfig" "gnome-vfs-mime-magic" "yaourtrc" "gai.conf" "cupshelpers/" "vconsole.conf" "sysctl.d/" "X11/" "mime.types" "dbus-1/" "mail.rc" "ppp/" "gss/" "logrotate.d/" "environment")
 
+<<<<<<< HEAD
  ("/etc/X11/" (22505 19369 326856 646000) "xorg.conf.d/" "./" "../" "xinit/")
 
  ("/home/ironjanowar/zshConfig/" (22506 38026 891951 262000) ".git/" "./" ".zshrc" "../")
+=======
+ ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" (22498 47112 649691 137000) "index.html" "js/" "css/" "visualizer.wgt" ".git/" "./" ".gitignore" "config.xml" "../")
+>>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 
  ("/usr/share/X11/xorg.conf.d/" (22505 19371 983675 448000) "./" "../" "70-synaptics.conf" "10-quirks.conf" "10-evdev.conf")
 

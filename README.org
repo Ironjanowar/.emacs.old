@@ -1,3 +1,24 @@
+* Config on Emacs version <25
+- Clone the repository
+#+BEGIN_SRC bash
+$ git clone https://github.com/Ironjanowar/.emacs.d
+#+END_SRC
+
+- *IMPORTANT* go into the /.emacs.d/ directory
+#+BEGIN_SRC bash
+$ cd .emacs.d
+#+END_SRC
+
+- Remove the Emacs 25 stuff
+#+BEGIN_SRC bash
+$ find -name "*elc*" | xargs rm
+#+END_SRC
+
+* For Emacs 25
+Simply clone the repository and install the dependencies that it will
+need. (Emacs will tell you)
+
+* Special thanks
 My Emacs config is posible thanks to @ignaciobll
 (https://github.com/ignaciobll/.emacs.d) and @rockneurotiko
 (https://github.com/rockneurotiko/emacs.d)

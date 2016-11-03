@@ -24,7 +24,7 @@
   :config
   (global-undo-tree-mode 1)
   (global-set-key (kbd "C-z") 'undo)
-  (global-set-key (kbd "C-S-z") 'redo)  
+  (global-set-key (kbd "C-S-z") 'redo)
   )
 
 ;; Key bindings
@@ -32,7 +32,12 @@
 (global-set-key "\M-q" 'fill-paragraph)
 
 ;; Move text
-(global-set-key [(control shift up)]  'move-text-up)
-(global-set-key [(control shift down)]  'move-text-down)
+(use-package move-text
+  :ensure t
+  :config
+  (global-set-key [(control shift up)]  'move-text-up)
+  (global-set-key [(control shift down)]  'move-text-line-down)
+  )
+
 
 (provide 'editing-settings)
