@@ -29,7 +29,7 @@
 
 ;; Key bindings
 (global-set-key "\M-i" 'iwb)
-(global-set-key "\M-q" 'fill-column)
+(global-set-key "\M-q" 'fill-paragraph)
 
 ;; Move text
 (global-set-key [(control shift up)]  'move-text-up)
