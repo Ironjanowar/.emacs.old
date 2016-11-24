@@ -8,4 +8,10 @@
 ;;(require 'python-settings)
 (require 'python-elpy)
 
+;; Elm
+(require 'elm-settings)
+
+;; Scala (ENSIME)
+(require 'ensime-settings)
+
 (provide 'programming-language-settings)

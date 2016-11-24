@@ -2,14 +2,30 @@
 
 ;; ----- ido-last-directory-list -----
 (
-<<<<<<< HEAD
+ ("/home/ironjanowar/Scala/" . "IRC/")
+ ("/ssh:w140163@triqui4.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/so/" . "filtrar.2016b/")
+ ("/ssh:w140163@triqui4.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/" . "so/")
+ ("/ssh:w140163@triqui4.fi.upm.es:/homefi/alumnos/w/w140163/" . "DATSI/")
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/" . "Correcciones/")
+ ("/ssh:w140163@triqui3.fi.upm.es:DATSI/so/" . "filtrar.2016b/")
+ ("/ssh:w140163@triqui3.fi.upm.es:DATSI/" . "so/")
+ ("/ssh:w140163@triqui3.fi.upm.es:" . "DATSI/")
+ ("/ssh:w140163@triqui3.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/so/" . "filtrar.2016b/")
+ ("/ssh:w140163@triqui3.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/" . "so/")
+ ("/ssh:w140163@triqui3.fi.upm.es:/homefi/alumnos/w/w140163/" . "DATSI/")
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/public/" . "static/")
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/" . "elm/")
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/elm-stuff/" . "packages/")
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/" . "src/")
+ ("/home/ironjanowar/Cursos/elm-meetup/" . "elm-music-player/")
+ ("/home/ironjanowar/Cursos/" . "elm-meetup/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/" . "Practica/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/" . "Bloque_II/")
  ("/home/ironjanowar/ACM/" . "AddMembers/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/" . "filtrar.2016b/")
  ("/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/heydjbot/" . "demo4/")
  ("/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/" . "heydjbot/")
- ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_analisis/" . "ModuloFicheros/")
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_analisis/" . "ModuloProcesos/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/" . "Practica_de_disenio/")
  ("/home/ironjanowar/Universidad/Quinto_Semestre/" . "Sistemas_Operativos/")
  ("/home/ironjanowar/Universidad/" . "Quinto_Semestre/")
@@ -29,11 +45,7 @@
  ("/usr/share/X11/" . "xorg.conf.d/")
  ("/usr/share/" . "X11/")
  ("/usr/" . "share/")
- ("/" . "etc/")
-=======
- ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/" . "js/")
- ("/home/ironjanowar/work/sdh/" . "sdh-widget-rangenv/")
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
+ ("/" . "home/")
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" . "wgt_files/")
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/" . "agile-dashboards/")
  ("/home/ironjanowar/work/Wirecloud/Grunt/" . "agile-2/")
@@ -47,39 +59,50 @@
  ("/home/ironjanowar/work/wirecloud-widgets/force_layout_with_images/operator/" . "js/")
  ("/home/ironjanowar/work/wirecloud-widgets/force_layout_with_images/" . "operator/")
  ("/home/" . "ironjanowar/")
- ("/home/ironjanowar/TelegramBots/" . "ACMbot/")
+ ("/home/ironjanowar/TelegramBots/" . "RedditBot/")
  ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" . "css/")
  ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/" . "widget/")
  ("/home/ironjanowar/work/wirecloud-widgets/" . "visualizer-widget/")
- ("/home/ironjanowar/work/" . "sdh/")
+ ("/home/ironjanowar/work/" . "Wirecloud/")
  ("/home/ironjanowar/.emacs.old/" . "settings/")
  ("/home/ironjanowar/.emacs.d/" . "config/")
-<<<<<<< HEAD
- ("/home/ironjanowar/" . "Universidad/")
-=======
  ("/home/ironjanowar/" . ".emacs.d/")
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 )
 
 ;; ----- ido-work-directory-list -----
 (
-<<<<<<< HEAD
+ "/home/ironjanowar/.emacs.d/config/"
+ "/home/ironjanowar/Elixir/"
+ "/home/ironjanowar/Descargas/Telegram Desktop/"
+ "/home/ironjanowar/Scala/IRC/"
+ "/home/ironjanowar/Scala/Simple_Server-Client/"
+ "/home/ironjanowar/TelegramBots/RedditBot/"
+ "/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/Correcciones/"
  "/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/"
+ "/home/ironjanowar/.config/awesome/"
+ "/home/ironjanowar/"
+ "/ssh:w140163@triqui4.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/so/filtrar.2016b/"
+ "/ssh:w140163@triqui4.fi.upm.es:"
+ "/ssh:w140163@triqui3.fi.upm.es:/homefi/alumnos/w/w140163/DATSI/so/filtrar.2016b/"
+ "/ssh:w140163@triqui3.fi.upm.es:"
+ "/ssh:w140163@triqui3.fi.upm.es:DATSI/so/filtrar.2016b/"
+ "/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_analisis/ModuloProcesos/"
+ "/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/elm/"
+ "/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/public/static/"
+ "/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/public/"
+ "/home/ironjanowar/Cursos/elm-meetup/elm-music-player/"
+ "/home/ironjanowar/.emacs.d/"
  "/home/ironjanowar/Descargas/"
  "/home/ironjanowar/ACM/AddMembers/"
  "/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/Practica/"
- "/home/ironjanowar/"
  "/home/ironjanowar/Universidad/Quinto_Semestre/Segti/"
  "/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/"
- "/home/ironjanowar/Descargas/Telegram Desktop/"
- "/home/ironjanowar/.emacs.d/config/"
  "/home/ironjanowar/TelegramBots/ACMbot/"
  "/home/ironjanowar/TelegramBots/PisitoBot/"
  "/home/ironjanowar/ACM/"
  "/home/ironjanowar/Scripts/"
  "/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/"
  "/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/heydjbot/demo4/"
- "/home/ironjanowar/.config/awesome/"
  "/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_analisis/ModuloFicheros/"
  "/home/ironjanowar/work/"
  "/home/ironjanowar/Spotify_tests/web-api-auth-examples/authorization_code/"
@@ -98,126 +121,87 @@
  "/home/ironjanowar/TelegramBots/GroupMentionerBot/"
  "/home/ironjanowar/TelegramBots/ACMbot/data/"
  "/home/ironjanowar/TelegramBots/Menerator_JS/"
- "/home/ironjanowar/.emacs.d/"
- "/etc/X11/xorg.conf.d/"
- "/home/ironjanowar/zshConfig/"
-=======
- "/home/ironjanowar/.emacs.d/config/"
- "/home/ironjanowar/work/sdh/sdh-widget-rangenv/js/"
- "/home/ironjanowar/.emacs.d/"
- "/home/ironjanowar/"
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/wgt_files/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/and-filter-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/labels-to-dataserie-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/workload-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/union-list-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/trend-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/test-report-splitter-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/setDifference-list-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/set-generic-filter-conditions-widget/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/removeDuplicates-list-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/reliability-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/product-backlog-chart-operator/"
-<<<<<<< HEAD
-=======
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/pie-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/packlist-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/open-item-webpage-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jira-harvester-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-widget/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-table-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-project-build-list-widget/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-harvester-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-table-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-splitter-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/intersect-list-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/iconosWidgets.graffle/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/gitlab-harvester-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/github-harvester-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/git-blame-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-jenkins-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-coveralls-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-jenkins-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-coveralls-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-closing-commit-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/file-coverage-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/dist/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/detailed-jenkins-test-data-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/column-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/changes-splitter-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/calculate-tendency-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/burndownchart-click-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/burndown-chart-generator-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/build-splitter-operator/"
- "/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/BasicListMathOperator/"
- "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/css/"
- "/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/"
- "/home/ironjanowar/.emacs.d/plugins/"
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 )
 
 ;; ----- ido-work-file-list -----
 (
-<<<<<<< HEAD
- "libfiltra_void.c"
- "libfiltra_delay.c"
- "libfiltra_alfa.c"
- "filtrar.c"
- "introduccion-sosbolonia.txt"
- "nuevosACMCSV.csv"
- "bohu.org"
- ".zshrc"
- "numero_de_practica.py"
- "LISTA-COMIDA-ACM-2016.org"
-=======
+ "interface-settings.el"
  "editing-settings.el"
- "main.js"
  "general-settings.el"
- "init.el"
- ".zshrc"
- "create_wgt_files.py"
- "unify_wgt.py"
- "create_wgt_files.wgt"
- "python-settings.el"
+ "hello_world.ex"
  "programming-language-settings.el"
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
+ "examen .rtf"
+ "ExamenProb3.txt"
+ "ExamenProb2m.m"
+ "ExamenProb1c.m"
+ "ExamenProb1.m"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
-<<<<<<< HEAD
- ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/" (22553 5231 696839 970000) "filtrar.h" "libfiltra_delay.c" "./" "libfiltra_void.c" "WORK/" "libfiltra_alfa.c" "libfiltra_void.so" "Makefile" "libfiltra_alfa.so" "filtrar" "filtrar.c" "../" "libfiltra_delay.so")
-=======
- ("/home/ironjanowar/.emacs.d/config/" (22536 50972 792421 516000) "web-settings.el" "navigation-settings.el" "python-settings.el" "general-settings.el" "visual-settings.el" "google-settings.el" "programming-language-settings.el" "../" "package-management-settings.el" "interface-settings.el" "editing-settings.el" "js-settings.el" "programming-settings.el" "python-elpy.el" "version-control-settings.el" "./")
+ ("/home/ironjanowar/.emacs.d/config/" (22583 5295 966640 915000) "package-management-settings.el" "ensime-settings.el~" "general-settings.el" "ensime-settings.el" "python-elpy.el~" "programming-settings.el" "js-settings.el" "navigation-settings.el" "interface-settings.el" "./" "python-elpy.el" "python-settings.el" "programming-language-settings.el" "visual-settings.el" "google-settings.el" "web-settings.el" "editing-settings.el" "../" "version-control-settings.el" "elm-settings.el")
 
- ("/home/ironjanowar/.emacs.d/" (22536 51086 734699 459000) ".gitignore" "ido.last" "plugins/" "config/" "backups/" "../" "srecode-map.el" "README.org" "init.el" "elpa/" "auto-save-list/" "emojis/" ".git/" ".mc-lists.el" "snippets/" "ido.last~" "./" "ac-comphist.dat")
+ ("/home/ironjanowar/.emacs.d/" (22582 52583 656662 524000) "ido.last" ".git/" "srecode-map.el" ".gitignore" ".python-environments/" "tramp" "plugins/" "./" "init.el" "backups/" "ac-comphist.dat" "snippets/" "elpa/" ".mc-lists.el" "emojis/" "auto-save-list/" "ido.last~" "../" "config/" "README.org" "%backup%~" "eshell/")
 
- ("/home/ironjanowar/" (22536 50864 236285 179000) ".bash_history" ".npm/" ".zcompdump" ".oh-my-zsh/" "zshConfig/" ".zcompdump-mi-maquina-5.1.1" ".profile" ".zshrc.pre-oh-my-zsh" "Templates/" ".config/" ".gconf/" ".bashrc" "../" ".xsession-errors" ".TelegramDesktop/" ".thunderbird/" ".pki/" "Public/" ".dbus/" "Music/" ".lesshst" ".composer/" "Downloads/" "Pictures/" ".gitconfig" ".zshrc~" "Videos/" ".cache/" "Desktop/" ".ssh/" ".emacs.d/" "Documents/" ".ICEauthority" ".Xauthority" "work/" ".xsession-errors.old" "Scripts/" "examples.desktop" ".mozilla/" ".zsh-update" ".zsh_history" ".hplip/" ".zshrc" ".dmrc" ".local/" ".gnome/" ".nano/" ".sudo_as_admin_successful" ".gnupg/" ".bash_logout" "./")
+ ("/home/ironjanowar/" (22583 4764 316654 972000) ".ssh/" ".scala_history" ".julia_history" "CV/" ".xscreensaver" ".octave_hist" "Imágenes/" "Elixir/" ".zsnes/" ".nvm/" ".mozilla/" ".xsession-errors" "Vídeos/" "Documentos/" ".config/" ".python_history" ".xsession-errors.old" "work/" "Cursos/" ".bash_profile" ".ICEauthority" ".gnome2_private/" "PyConEs2016/" ".gnome/" ".TelegramDesktop/" "Spotify_tests/" "cat.mp4" ".Xauthority" "Descargas/" "Público/" ".emacs.d/" ".node_repl_history" ".ipython/" ".zsh-update" "zshConfig/" ".oh-my-zsh/" ".ghc/" ".gnupg/" ".lesshst" "TelegramBots/" "Books/" "./" ".thunderbird/" ".zsh_history" "Universidad/" ".kde4/" ".zshrc" "practicas_git/" ".elm/" ".pki/" ".sbt/" ".thumbnails/" ".local/" "Scripts/" ".esd_auth" "CalificacionesSTI(24Oct).pdf" ".ivy2/" ".cache/" ".gitconfig" ".bash_logout" "ACM/" "Escritorio/" "tatto.txt" ".npm/" "../" ".elementary/" "Scala/" ".zcompdump-arch-pc-5.2" ".gnome2/" ".bashrc" "Plantillas/" ".bash_history" "Prueba/" "Pictures/" ".snes9x/" ".dmrc" ".vpn/" "Música/")
 
- ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/js/" (22536 50861 368284 627000) "main.js" "rangenv.js" "common.js" "../" "framework.js" "./")
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/" (22576 40774 136888 468000) "PATATA/" "_LOOPS/" "filtrar.h" "test.c" "libfiltra_delay.c" "test" "entrega.sh" "Mensajes_de_error.txt" "./" "libfiltra_void.c" "WORK/" "libfiltra_alfa.c" "libfiltra_void.so" "Makefile" "libfiltra_alfa.so" "Correcciones/" "filtrar" "filtrar.c" "../" "_VACIO/" "libfiltra_delay.so")
 
- ("/home/ironjanowar/work/sdh/sdh-widget-rangenv/" (22535 41187 440639 538000) "lib/" "index.html" "../" "README.org" "config.json" "css/" ".git/" "js/" "./")
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/filtrar.2016b/Correcciones/" (22576 39232 706841 666000) "filtrar-18-nov_2.chk" "testprocesos.txt" "filtrar-19-nov_3.chk" "filtrar-18-nov.chk" "filtrar-18-nov_3.chk" "./" "filtrar-19-nov_2.chk" "filtrar-12-nov.chk" "../" "filtrar-19-nov_1.chk" "filtrar-11-nov.chk")
 
- ("/home/ironjanowar/work/sdh/" (22529 3857 382456 783000) "sdh-elasticsearch/" "sdh-api/" "sdh-redis/" "sdh-web-docker/" "sdh-widget-rangenv/" "../" "start_services.txt" "sdh-framework/" "sdh-web/" "start_services.org" "server/" "./")
+ ("/home/ironjanowar/Descargas/Telegram Desktop/" (22581 56867 46656 804000) "./" "MATLAB.zip" "MATLAB/" "__MACOSX/" "../")
 
- ("/home/ironjanowar/work/" (22535 16616 107101 738000) "Tests/" "../" "sdh/" "wirecloud-widgets/" "./")
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
+ ("/home/ironjanowar/Elixir/" (22579 33963 650018 267000) "rec.ex" "./" "../" "hello_world.ex")
+
+ ("/home/ironjanowar/TelegramBots/RedditBot/" (22577 42674 810282 243000) "bot.token" ".git/" ".gitignore" "./" "bot.py" "../" "README.org" "run.sh")
+
+ ("/home/ironjanowar/Scala/IRC/" (22579 29713 853344 833000) "./" "IRCListener.scala" "target/" "meh/" "../" "connectIRC.scala")
+
+ ("/home/ironjanowar/Scala/Simple_Server-Client/" (22579 24810 693337 25000) "Server.class" "Client.class" "Client$.class" "Server$delayedInit$body.class" "Client.scala" "Server$.class" "./" "Client$delayedInit$body.class" "../" "Server.scala")
+
+ ("/home/ironjanowar/Scala/" (22579 16991 107737 322000) "./" "Simple_Server-Client/" "../" "IRC/")
+
+ ("/home/ironjanowar/Descargas/" (22576 34274 946691 137000) "Super Mario World (USA).zip" "filtrar.2016b.tgz" "problemas-SF.chk" "06_clase_kerberos_2014-2015_s1.pdf" "Win10_1607_Spanish_x64.iso" "08_clase_web_2014-2015_s1.pdf" "Super Mario World (USA).srm" "Resguardo_Fibra_Piso.pdf" "RaspPi/" "python201.pdf" "Telegram Desktop/" "./" "100326978554.sdx" "introduccion-sosbolonia.txt" "CriptoLabServiciosCA.pem" "../" "entradas_yelmo.pdf" "CriptoLabRootCA.pem" "RLabRootCA.pem")
+
+ ("/home/ironjanowar/work/" (22553 47846 783347 537000) "sdh/" "./" "meh/" "../")
+
+ ("/home/ironjanowar/Scripts/" (22564 44122 540083 877000) ".git/" "refresh_dmenu_cache.py" "renamePacman.py" ".gitignore" "./" "rebuild_docker.sh" "stop_and_erase_docker.sh" "gitPush.sh" "remove_spaces.py" "../" "README.org" "stop_web.sh" "start_web.sh")
+
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/Practica/" (22549 58682 716731 128000) "bohu.org" "./" "bohu.tex" "bohu.pdf" "../")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/elm/" (22557 53551 449532 103000) "Main.elm" "Router.elm" "Player.elm" "Routes.elm" "./" "NotFound.elm" "Home.elm" "About.elm" "../")
+
+ ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_analisis/ModuloProcesos/" (22564 46965 163503 520000) "10Fork.c" "Cada3Segs" "Identificadores.c" "Signal.c" "salida_ps.txt" "carga1" "test.c" "Parado" "CPUa100.c" "test" "Ventanilla_pth.c" "Salir.c" "Utilizando_entorno.c" "Argumentos" "Parado.c" "CPUa000" "FEW_signal.c" "./" "CPUa000.c" "UnSegundo" "Compart_pth.c" "Cada3Segs.c" "Argumentos.c" "Ventanilla_prc.c" "CPUa100" "Concurr_prc.c" "Invocar_Exec.c" "Ventanilla_srl.c" "Parado_ironjanowar" "Times_B.c" "Muerto" "Muerto.c" "../" "Utilizando_entorno" "Concurr_pth.c" "Compart_prc.c" "Crear_Proceso" "UnSegundo.c" "Crear_Proceso.c")
+
+ ("/home/ironjanowar/.config/awesome/" (22563 1070 996785 627000) "rc.lua.powerarrow-darker" "wallpapers/" "rc.lua.copland" "rc.lua.previous" "rc.lua.previous.~2~" "themes/" "rc.lua.previous.~4~" "README.rst" "revelation/" "rc.lua.rainbow" "switch-theme.sh" "rc.lua" "net_widgets/" "vicious/" "rc.lua.previous.~5~" "rc.lua~" "./" "diskette.png" "rc.lua.multicolor" "rc.lua.previous.~3~" "scratchdrop/" "rc.lua.blackburn" "lain/" "eminent/" "menugen/" "rc.lua.dremora" "rc.lua.holo" "rc.lua.previous.~1~" "../" "diskusage.lua" "rc.lua.steamburn" "awesome-copycats/")
+
+ ("/home/ironjanowar/.config/" (22564 43974 590079 385000) "plasmashellrc" "discord/" "gconf/" "dleyna-renderer-service.conf" "pulse/" "awesome/" "gtk-3.0/" "mimeapps.list" "google-chrome-unstable/" "menus/" "FreeMat/" "gtk-2.0/" "libreoffice/" "kglobalshortcutsrc" "ibus/" "dconf/" "nautilus/" "kactivitymanagerdrc" "ephoto/" "cef_user_data/" "htop/" "matplotlib/" "fontconfig/" "user-dirs.dirs" "./" "keepassx/" "google-chrome/" "autostart/" "spotify/" "goa-1.0/" "fontforge/" "Trolltech.conf" "gnome-session/" "../" "user-dirs.locale" "evolution/" "mirage/" "plasma-org.kde.plasma.desktop-appletsrc")
+
+ ("/home/ironjanowar/CV/" (22568 17486 392174 780000) "./" "../" "Curriculum_Cesar_Guzman.pdf")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/public/static/" (22557 43242 83293 358000) "main.css" "normalize.css" "./" "index.js" "../")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/public/" (22557 43242 83293 358000) "index.html" "./" "../" "static/")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/src/" (22557 43242 83293 358000) "elm/" "./" "public/" "../")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/elm-stuff/packages/" (22557 44387 249912 491000) "elm-lang/" "./" "../" "evancz/")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/elm-stuff/" (22557 44402 396578 529000) "./" "exact-dependencies.json" "../" "build-artifacts/" "packages/")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/elm-music-player/" (22557 44382 409912 692000) ".git/" "node_modules/" "elm-stuff/" ".gitignore" "src/" "server.js" "elm-package.json" "./" "package.json" "../" "webpack.config.js")
+
+ ("/home/ironjanowar/Cursos/elm-meetup/" (22557 43241 9960 69000) "./" "elm-music-player/" "../")
+
+ ("/home/ironjanowar/Cursos/" (22557 42860 213309 209000) "./" "elm-meetup/" "../")
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/" (22552 31543 248982 353000) "Coyoto_stuff/" "Apuntes/" "Practica_de_analisis/" "./" "../" "Practica_de_disenio/")
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Apuntes/" (22552 60094 746515 913000) "Tema1-Sistema_de_Ficheros.org" "Tema1-Sistema_de_Ficheros.pdf" "./" "../" "Tema1-Sistema_de_Ficheros.tex")
 
- ("/home/ironjanowar/Descargas/" (22552 29514 318920 751000) "Super Mario World (USA).zip" "filtrar.2016b.tgz" "problemas-SF.chk" "06_clase_kerberos_2014-2015_s1.pdf" "Win10_1607_Spanish_x64.iso" "08_clase_web_2014-2015_s1.pdf" "Super Mario World (USA).srm" "Resguardo_Fibra_Piso.pdf" "python201.pdf" "Telegram Desktop/" "./" "100326978554.sdx" "introduccion-sosbolonia.txt" "CriptoLabServiciosCA.pem" "../" "entradas_yelmo.pdf" "CriptoLabRootCA.pem" "RLabRootCA.pem")
-
- ("/home/ironjanowar/" (22552 29269 178913 308000) ".ssh/" ".julia_history" ".xscreensaver" "Imágenes/" ".zsnes/" ".mozilla/" ".xsession-errors" "Vídeos/" "Documentos/" ".config/" ".python_history" ".xsession-errors.old" "work/" ".bash_profile" ".ICEauthority" ".gnome2_private/" "PyConEs2016/" ".gnome/" ".TelegramDesktop/" "Spotify_tests/" ".Xauthority" "Descargas/" "Público/" ".emacs.d/" ".ipython/" ".zsh-update" "zshConfig/" ".oh-my-zsh/" ".ghc/" ".gnupg/" ".lesshst" "TelegramBots/" "Books/" "./" ".thunderbird/" ".zsh_history" "Universidad/" ".zshrc" ".pki/" ".sbt/" ".thumbnails/" ".local/" "Scripts/" ".esd_auth" "CalificacionesSTI(24Oct).pdf" ".ivy2/" ".cache/" ".gitconfig" ".bash_logout" "ACM/" "Escritorio/" "Linux-SDM-Downloader/" "tatto.txt" ".npm/" "../" ".zcompdump-arch-pc-5.2" ".gnome2/" ".bashrc" "Plantillas/" ".bash_history" "Prueba/" "Pictures/" ".snes9x/" ".dmrc" "Música/")
-
  ("/home/ironjanowar/ACM/AddMembers/" (22544 61454 306675 936000) "correos.txt" "nuevosACMCSV.csv" "extract_mails.py" "./" "addmembers.py" "../")
 
  ("/home/ironjanowar/ACM/" (22544 61422 483341 637000) "AddMembers/" "bandera.org" "correos.txt" "nuevosACMCSV.csv" "./" "NuevaWeb/" "../")
-
- ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/Practica/" (22549 57703 153389 343000) "bohu.org" "./" "bohu.tex" "bohu.pdf" "../")
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Segti/Bloque_II/" (22543 12705 969334 44000) "Kerberos.org" "Codigo_malicioso.org" "Codigo_seguro.org" "Practica/" "./" "Seguridad_en_correo_electronico.org" "Base_de_la_criptografia.org" "Conceptos_generales.org" "../" "Transparencias/")
 
@@ -227,25 +211,15 @@
 
  ("/home/ironjanowar/TelegramBots/ACMbot/" (22539 56973 403280 20000) "acm.token" ".git/" ".gitignore" "./" "bot.py" "data/" "launch.sh" "../" "README.org")
 
- ("/home/ironjanowar/.emacs.d/config/" (22540 35629 719938 588000) "package-management-settings.el" "general-settings.el" "python-elpy.el~" "programming-settings.el" "js-settings.el" "navigation-settings.el" "interface-settings.el" "./" "python-elpy.el" "python-settings.el" "programming-language-settings.el" "visual-settings.el" "google-settings.el" "web-settings.el" "editing-settings.el" "../" "version-control-settings.el")
-
- ("/home/ironjanowar/Descargas/Telegram Desktop/" (22542 1213 37473 535000) "confessions-of-a-necromancer.pdf" "Sistemas de produccion (Ejercicios).pdf" "video_2016-10-23_19-26-53.mov" "segti_cert.p12" "LISTA-COMIDA-ACM-2016.org" "Captura de pantalla 2016-10-24 a las 12.12.05.png" "CsarGuzmnAlpzar.crt" "problemas-SF.pdf" "practicas analisis (2).zip" "nuevosACMCSV.csv" "sendEmail.py" "acm_junta.kdbx" "./" "#LISTA-COMIDA-ACM-2016.org#" "bienvenida.html" "bienvenida.org" "lista_comida.tex" "photo_2016-10-04_16-03-12.jpg" "video_2016-09-26_18-59-45.mov" "DeviceInfo" "practicas analisis.zip" "Makefile" "meh/" "Captura de pantalla de 2016-10-04 22:38:08.png" "mod.hs" "video_2016-10-23_12-26-37.mov" "DeviceInfo.c" "video_2016-10-18_14-32-35.mov" "logo_acm_cromo.jpg" "video_2016-10-16_15-00-00.mov" "perfil.jpg" "image_2016-10-10_21-13-08.png" "../" "Marcos (Ejercicios).pdf" "photo_2016-10-05_12-05-35.jpg" "video_2016-10-23_12-26-36.mov" "paradani.7z")
-
- ("/home/ironjanowar/.emacs.d/" (22539 35704 959409 922000) "ido.last" ".git/" "srecode-map.el" ".gitignore" ".python-environments/" "tramp" "plugins/" "./" "init.el" "backups/" "ac-comphist.dat" "snippets/" "elpa/" ".mc-lists.el" "emojis/" "auto-save-list/" "ido.last~" "../" "config/" "README.org" "%backup%~" "eshell/")
-
  ("/home/ironjanowar/TelegramBots/" (22539 56641 359955 465000) "ProjectBot/" "GroupMentionerBot/" "MyTgBot/" "Menerator_JS/" ".gmailAPI/" "ACMbot/" "Phyton_bot/" "SuchBot.org" "Random_playlist_generator_bot/" "NodeTestBot/" "./" "TheConvertorBot/" "OpenLibraSpam_bot/" "PisitoBot/" "SuchBot_client.html" "RedditBot/" "Meme_Generator_bot/" "SuchBot.html" "Presentacion/" "CityMapperBot/" "../" "GoConvertor/" "SaveLinksBot/" "Mentioner_Bot_2.0/" "RemoteACMBot/")
 
  ("/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/" (22534 6930 506562 586000) "./" "heydjbot/" "bot.py" "../")
-
- ("/home/ironjanowar/Scripts/" (22534 35544 282602 40000) ".git/" ".gitignore" "./" "gitPush.sh" "remove_spaces.py" "../" "README.org")
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/Sistemas_Operativos/Practica_de_disenio/" (22526 11413 809503 716000) "./" "filtrar.2016b/" "../")
 
  ("/home/ironjanowar/Universidad/Quinto_Semestre/" (22534 34000 845976 183000) "Inteligencia_artificial/" "./" "Algoritmica_Numerica/" "Segti/" "../" "Sistemas_Operativos/" "Matriculacion/")
 
  ("/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/heydjbot/demo4/" (22534 6189 613260 5000) "local_secrets.py" "./" "bot.py" "server/" "../")
-
- ("/home/ironjanowar/.config/" (22530 38148 719870 104000) "plasmashellrc" "discord/" "gconf/" "dleyna-renderer-service.conf" "pulse/" "awesome/" "gtk-3.0/" "mimeapps.list" "google-chrome-unstable/" "menus/" "gtk-2.0/" "libreoffice/" "kglobalshortcutsrc" "ibus/" "dconf/" "nautilus/" "kactivitymanagerdrc" "cef_user_data/" "matplotlib/" "fontconfig/" "user-dirs.dirs" "./" "keepassx/" "google-chrome/" "autostart/" "spotify/" "goa-1.0/" "Trolltech.conf" "gnome-session/" "../" "user-dirs.locale" "evolution/" "mirage/" "plasma-org.kde.plasma.desktop-appletsrc")
 
  ("/home/ironjanowar/TelegramBots/Random_playlist_generator_bot/heydjbot/" (22533 62275 72814 678000) "README.md" ".git/" "demo3/" "demo1/" "./" "images/" "demo4/" "demo2/" "../" "requirements.txt" "LICENSE")
 
@@ -275,7 +249,6 @@
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/issue-table-generator-operator/" (22507 51715 634758 224000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "LICENSE-MIT" "package.json" "issue-table-generator-operator.wgt" "../")
 
-<<<<<<< HEAD
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-harvester-operator/" (22507 51718 34758 160000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "package.json" "../")
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" (22507 51717 994758 162000) "build-splitter-operator/" "README.md" "get-closing-commit-operator/" "create_wgt_files.py" "and-filter-operator/" "get-coverage-report-jenkins-operator/" "column-chart-generator-operator/" ".git/" "dist/" "get-coverage-report-coveralls-operator/" "burndown-chart-generator-operator/" "changes-splitter-operator/" ".gitignore" "gitlab-harvester-operator/" "iconosWidgets.graffle/" "wgt_files/" "./" "intersect-list-operator/" "issue-table-generator-operator/" "BasicListMathOperator/" "github-harvester-operator/" "build.sh" "detailed-jenkins-test-data-operator/" "jenkins-harvester-operator/" "file-coverage-chart-generator-operator/" "../" "burndownchart-click-operator/" "calculate-tendency-operator/" "issue-splitter-operator/" "get-file-coverage-coveralls-operator/" "get-file-coverage-jenkins-operator/" "git-blame-operator/")
@@ -283,11 +256,6 @@
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/and-filter-operator/" (22507 51128 474773 749000) "README.md" ".jscsrc" "node_modules/" "Gruntfile.js" ".jshintrc-jasmine" ".jshintrc-node" ".gitignore" "src/" "./" ".jshintrc" "package.json" "../" "and-filter-operator.wgt")
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/wgt_files/" (22507 51077 154775 106000) "create_wgt_files.py" "unify_wgt.py" "./" "files/" "../" "README.org" "wgt_files.wgt")
-=======
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/" (22501 17820 813393 947000) "README.md" "dist/" "trend-chart-generator-operator/" "reliability-chart-generator-operator/" "build-splitter-operator/" "calculate-tendency-operator/" "issue-table-generator-operator/" "test-report-splitter-operator/" "column-chart-generator-operator/" "file-coverage-chart-generator-operator/" "wgt_files/" "set-generic-filter-conditions-widget/" "git-blame-operator/" "removeDuplicates-list-operator/" "jira-harvester-operator/" "open-item-webpage-operator/" "detailed-jenkins-test-data-operator/" "packlist-operator/" "jenkins-test-time-difference-widget/" "intersect-list-operator/" "product-backlog-chart-operator/" "jenkins-test-time-difference-table-operator/" "burndownchart-click-operator/" "jenkins-project-build-list-widget/" "github-harvester-operator/" "get-file-coverage-coveralls-operator/" "setDifference-list-operator/" "get-file-coverage-jenkins-operator/" "get-coverage-report-coveralls-operator/" "iconosWidgets.graffle/" "BasicListMathOperator/" "build.sh" ".git/" "jenkins-harvester-operator/" "get-coverage-report-jenkins-operator/" "and-filter-operator/" "issue-splitter-operator/" "union-list-operator/" "./" ".gitignore" "get-closing-commit-operator/" "labels-to-dataserie-operator/" "create_wgt_files.py" "gitlab-harvester-operator/" "workload-chart-generator-operator/" "pie-chart-generator-operator/" "changes-splitter-operator/" "../" "burndown-chart-generator-operator/")
-
- ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/" (22498 48041 529666 577000) "main.js" "./" "../")
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 
  ("/home/ironjanowar/PyConEs2016/flask-note/src/" (22519 42781 753286 224000) "app.py" "templates/" "./" "database.py" "../")
 
@@ -317,10 +285,6 @@
 
  ("/home/ironjanowar/TelegramBots/ACMbot/data/" (22516 5528 458774 632000) "QueHaceACM.txt" "admins.json" "groups.json" "tldr.mp4" "data.json" ".twitter.json~" ".twitter.json" "admins.json~" "./" "help.json~" "listaComida.jpg" "bienvenida.txt" "../" "carlton.mp4" "help.json")
 
- ("/home/ironjanowar/work/" (22507 51009 968110 215000) "scriptJS/" "d3_widgets/" "sdh-widget-snapshot-service/" "learn_JS/" "sdh-machine-slackbot/" "learn_html/" "jetty-0.0.0.0-31415-internal-connector-_internal-connector-any-/" "sdh-redis/" "test/" "sdh-web/" "install_sdh_machine.org" "sdh-telegrambot/" "html_practice/" "./" "Wirecloud/" "dudasJS.org" "start_services.org" "mailExample.html" "sdh-slackbot/" "sdh-elasticsearch/" "start_services.txt" "wirecloud-widgets/" "sdh-api/" "../")
-
- ("/home/ironjanowar/.config/awesome/" (22507 34808 685040 795000) "rc.lua.powerarrow-darker" "wallpapers/" "rc.lua.copland" "rc.lua.previous" "rc.lua.previous.~2~" "themes/" "rc.lua.previous.~4~" "README.rst" "revelation/" "rc.lua.rainbow" "switch-theme.sh" "rc.lua" "net_widgets/" "vicious/" "rc.lua.previous.~5~" "rc.lua~" "./" "diskette.png" "rc.lua.multicolor" "rc.lua.previous.~3~" "scratchdrop/" "rc.lua.blackburn" "lain/" "eminent/" "menugen/" "rc.lua.dremora" "rc.lua.holo" "rc.lua.previous.~1~" "../" "diskusage.lua" "rc.lua.steamburn" "awesome-copycats/")
-
  ("/home/ironjanowar/TelegramBots/Menerator_JS/" (22507 46551 966656 303000) ".git/" "node_modules/" ".env.example" "run_menerator.sh" "bot.js" ".gitignore" "elasticsearch-2.3.5/" "./" "package.json" "data/" "../" ".env")
 
  ("/home/ironjanowar/.TelegramDesktop/" (22507 35167 931789 69000) "Updater" "Telegram" "fontconfig/" "./" "tdata/" "../" "log.txt")
@@ -329,13 +293,9 @@
 
  ("/etc/" (22506 61921 571985 778000) "brltty.conf" "machine-id" "motd" "exports" "inputrc" "passwd.OLD" "libnl/" "initcpio/" "logrotate.conf" "resolvconf.conf" "depmod.d/" "protocols" "pacman.d/" "modules-load.d/" "locale.gen" "man_db.conf" "ssh/" "hostname" "pam.d/" "gnome/" "gconf/" "dleyna-renderer-service.conf" "security/" "dleyna-server-service.conf" "bluetooth/" "nsswitch.conf" "gshadow" "pulse/" "shadow" "gtk-3.0/" "services" "group" "ifplugd/" "shadow-" "ts.conf" "libao.conf" "apparmor.d/" "speech-dispatcher/" "group-" "slsh.rc" "bind.keys" "brlapi.key" "pacman.conf" "gnome-vfs-2.0/" "ca-certificates/" "udev/" "conf.d/" "lightdm/" "polkit-1/" "gtk-2.0/" "libreoffice/" "usb_modeswitch.d/" "profile.d/" "sensors3.conf" "printcap" "profile" "fonts/" "wpa_supplicant/" "drirc" "tmpfiles.d/" "resolv.conf.bak" "arch-release" "sudoers.d/" "whois.conf" "crypttab" "wgetrc" "sound/" "host.conf" "grub.d/" "pamac.conf" "rc_maps.cfg" "login.defs" "usb_modeswitch.setup" "fstab" "shells" "default/" "mtab" "resolv.conf" "ksysguarddrc" "ld.so.conf.d/" "bash.bash_logout" "modprobe.d/" "kernel/" "healthd.conf" "UPower/" "passwd" "nscd.conf" "./" "fuse.conf" "mdadm.conf" "request-key.d/" "hosts" "sudoers" "xinetd.d/" "ssl/" "avahi/" "pacman.conf.pacnew" "rpc" "geoclue/" "krb5.conf" "usb_modeswitch.conf" "trusted-key.key" "pacman.conf.pacnew.old" "pm/" "securetty" ".updated" "nanorc" "idnalias.conf" "xdg/" "mkinitcpio.d/" "os-release" "issue" "udisks2/" "request-key.conf" "makepkg.conf" "rc_keymaps/" "foomatic/" "nfsmount.conf" "ethertypes" "gssproxy/" "pcmcia/" "zsh/" "sensors.d/" "NetworkManager/" "cups/" "localtime" "dhcpcd.conf" "skel/" "locale.conf" "binfmt.d/" "ld.so.cache" "mkinitcpio.conf" "libpaper.d/" "exports.d/" "idn.conf" "passwd-" "sysconfig/" "pkcs11/" "systemd/" "gshadow-" "iproute2/" "bash.bashrc" "adjtime" "sane.d/" "bonobo-activation/" "../" "ld.so.conf" "nilfs_cleanerd.conf" "iptables/" "xml/" "papersize" "asound.conf" "mke2fs.conf" "netctl/" "vdpau_wrapper.cfg" "hp/" "acpi/" "openvpn/" "openldap/" ".pwd.lock" "lvm/" "ImageMagick-6/" "netconfig" "gnome-vfs-mime-magic" "yaourtrc" "gai.conf" "cupshelpers/" "vconsole.conf" "sysctl.d/" "X11/" "mime.types" "dbus-1/" "mail.rc" "ppp/" "gss/" "logrotate.d/" "environment")
 
-<<<<<<< HEAD
  ("/etc/X11/" (22505 19369 326856 646000) "xorg.conf.d/" "./" "../" "xinit/")
 
  ("/home/ironjanowar/zshConfig/" (22506 38026 891951 262000) ".git/" "./" ".zshrc" "../")
-=======
- ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/" (22498 47112 649691 137000) "index.html" "js/" "css/" "visualizer.wgt" ".git/" "./" ".gitignore" "config.xml" "../")
->>>>>>> 821e0ad6f8ba3fa3c8883ab677618660995aadd2
 
  ("/usr/share/X11/xorg.conf.d/" (22505 19371 983675 448000) "./" "../" "70-synaptics.conf" "10-quirks.conf" "10-evdev.conf")
 
@@ -368,50 +328,6 @@
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-coveralls-operator/" (22501 18155 433396 835000) "README.md" ".jscsrc" "get-coverage-report-coveralls-operator.wgt" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
 
  ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-coverage-report-jenkins-operator/" (22501 18078 43396 167000) "README.md" ".jscsrc" "get-coverage-report-jenkins-operator.wgt" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-coveralls-operator/" (22501 18229 146730 804000) "README.md" "get-file-coverage-coveralls-operator.wgt" ".jscsrc" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/get-file-coverage-jenkins-operator/" (22501 18180 56730 381000) "README.md" ".jscsrc" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "get-file-coverage-jenkins-operator.wgt" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/git-blame-operator/" (22501 18613 506734 120000) "README.md" ".jscsrc" "doc/" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../" "git-blame-operator.wgt")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-project-build-list-widget/" (22501 18303 830064 782000) "README.md" ".jscsrc" "bower.json" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" "jenkins-project-build-list-widget.wgt" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-table-operator/" (22501 18356 183398 567000) "README.md" "jenkins-test-time-difference-table-operator.wgt" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jenkins-test-time-difference-widget/" (22501 18462 10066 147000) "README.md" ".jscsrc" "bower.json" "jenkins-test-time-difference-widget.wgt" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/jira-harvester-operator/" (22501 18565 486733 707000) "README.md" "dist/" ".jscsrc" "Gruntfile.js" ".grunt/" "build/" "package.json" "node_modules/" "./" "jira-harvester-operator.wgt" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/open-item-webpage-operator/" (22501 18538 953400 144000) "README.md" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" "open-item-webpage-operator.wgt" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/packlist-operator/" (22501 18490 876733 62000) "README.md" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../" "packlist-operator.wgt")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/pie-chart-generator-operator/" (22501 17907 500061 363000) "README.md" "pie-chart-generator-operator.wgt" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/product-backlog-chart-operator/" (22501 18381 636732 120000) "product-backlog-chart-operator.wgt" "README.md" "dist/" ".jscsrc" "Gruntfile.js" ".grunt/" "build/" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/removeDuplicates-list-operator/" (22501 18590 103400 585000) "README.md" ".jscsrc" "Gruntfile.js" "removeDuplicates-list-operator.wgt" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/set-generic-filter-conditions-widget/" (22501 18667 123401 250000) "README.md" ".jscsrc" "bower.json" "Gruntfile.js" "build/" "package.json" "node_modules/" "set-generic-filter-conditions-widget.wgt" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/setDifference-list-operator/" (22501 18205 466730 600000) "README.md" "setDifference-list-operator.wgt" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/union-list-operator/" (22501 17995 680062 123000) "README.md" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "union-list-operator.wgt" "./" ".gitignore" "LICENSE-MIT" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/workload-chart-generator-operator/" (22501 17913 746728 83000) "README.md" "workload-chart-generator-operator.wgt" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/labels-to-dataserie-operator/" (22501 17963 993395 183000) "README.md" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" "LICENSE-MIT" "labels-to-dataserie-operator.wgt" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/js/" (22498 48041 529666 577000) "main.js" "./" "../")
-
- ("/home/ironjanowar/work/wirecloud-widgets/visualizer-widget/widget/css/" (22498 47365 646351 114000) "style.css" "./" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/build-splitter-operator/" (22501 14271 736696 657000) "README.md" ".jscsrc" "Gruntfile.js" "build/" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/calculate-tendency-operator/" (22501 12942 660018 523000) "README.md" ".jscsrc" "Gruntfile.js" "package.json" "node_modules/" "./" ".gitignore" ".jshintrc" ".jshintrc-jasmine" "src/" ".jshintrc-node" "../")
-
- ("/home/ironjanowar/work/Wirecloud/Grunt/agile-2/agile-dashboards/dist/" (22501 14365 16697 463000) "CoNWet_BasicListMathOperator_0.2.1.wgt" "Conwet_gitlab-harvester_0.3.3.wgt" ".keep" "Conwet_jira-harvester_0.3.5.wgt" "./" "CoNWeT_github-harvester_0.3.4.wgt" "CoNWet_product-backlog-chart_0.3.1.wgt" "../" "CoNWet_detailed-jenkins-test-data_0.3.1.wgt")
 )
 
 ;; ----- ido-unc-hosts-cache -----

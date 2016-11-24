@@ -4,6 +4,7 @@
 (setq mc/cmds-to-run-for-all
       '(
 	autopair-insert-or-skip-quote
+	c-electric-slash
 	))
 
 (setq mc/cmds-to-run-once

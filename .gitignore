@@ -4,7 +4,7 @@
 
 # elpa
 elpa/
-
+melpa/
 
 # Flycheck
 flycheck_*.el

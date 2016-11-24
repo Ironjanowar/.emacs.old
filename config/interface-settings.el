@@ -45,28 +45,7 @@
 ;; Highligth parenthesis
 (show-paren-mode 1)
 
-;; ido-mode
-(use-package ido-vertical-mode
-  :ensure t
-  :init
-  (setq ido-vertical-define-keys 'C-n-and-C-p-only)  
-  
-  :config
-  (ido-mode 1)
-  (ido-vertical-mode 1)
-  (ido-everywhere)
-
-  ;; Set ido for M-x commands also
-  (global-set-key
-   "\M-x"
-   (lambda ()
-     (interactive)
-     (call-interactively
-      (intern
-       (ido-completing-read
-	"M-x "
-	(all-completions "" obarray 'commandp))))))
-
-  )
+;; helm-mode
+(require 'helm-settings)
 
 (provide 'interface-settings)
