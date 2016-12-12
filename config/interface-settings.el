@@ -6,9 +6,9 @@
   (scroll-bar-mode -1))
 
 ;; Theme
-(use-package darkokai-theme
+(use-package moe-theme
   :ensure t
-  :config (load-theme 'darkokai t))
+  :config (load-theme 'moe-dark t))
 
 ;; Hydra
 (use-package hydra
