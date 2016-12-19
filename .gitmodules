@@ -1,0 +1,3 @@
+[submodule "tegmacs"]
+	path = tegmacs
+	url = https://github.com/rockneurotiko/tegmacs.git
