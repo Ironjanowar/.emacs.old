@@ -40,4 +40,7 @@
   )
 
 
+;; Don't indent with tabs ffs!
+(setq-default indent-tabs-mode nil)
+
 (provide 'editing-settings)
